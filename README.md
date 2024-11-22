@@ -8,7 +8,7 @@ A machine learning project focused on detecting cyber incidents within critical 
 
 ### Files and their Purpose
 
-- ** Report_4Pages.pdf**: A concise 4-page version of the report summarizing the project's objectives, methodology, results, and conclusions.
+- **Report_4Pages.pdf**: A concise 4-page version of the report summarizing the project's objectives, methodology, results, and conclusions.
 - **Notebooks**:
     - **batadal-v1.ipynb**: "School project" version of the notebook, focused on basic EDA and understanding the BATADAL dataset.
     - **batadal-v2.ipynb**: "Personal work", Improved version with feature engineering and anomaly detection algorithms.
